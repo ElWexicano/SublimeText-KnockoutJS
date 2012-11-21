@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.getSubscriptionsCount()$0
+]]></content>
+	<tabTrigger>ko.getSubscriptionsCount</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS getSubscriptionsCount</description>
+</snippet>

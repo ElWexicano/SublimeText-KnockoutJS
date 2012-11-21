@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.applyBindings(${1:new ViewModel()})$0;
+]]></content>
+	<tabTrigger>ko.apply</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Apply Bindings</description>
+</snippet>

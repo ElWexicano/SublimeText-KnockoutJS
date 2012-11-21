@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.subscribe()$0;
+]]></content>
+	<tabTrigger>ko.subscribe</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS subscribe</description>
+</snippet>

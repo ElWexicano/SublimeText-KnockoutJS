@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.isActive()$0
+]]></content>
+	<tabTrigger>ko.isActive</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS isActive</description>
+</snippet>

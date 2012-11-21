@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[options: ${1:options}$0]]></content>
+	<tabTrigger>ko.options</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>KnockoutJS The options Binding</description>
+</snippet>

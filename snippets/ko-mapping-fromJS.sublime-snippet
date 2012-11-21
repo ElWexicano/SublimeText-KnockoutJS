@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ko.mapping.fromJS({$1:data})$0]]></content>
+	<tabTrigger>ko.mapping.fromJS</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Mapping fromJS</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.extend()$0
+]]></content>
+	<tabTrigger>ko.extend</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Extend</description>
+</snippet>

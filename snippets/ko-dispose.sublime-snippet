@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.dispose()$0
+]]></content>
+	<tabTrigger>ko.dispose</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Dispose</description>
+</snippet>

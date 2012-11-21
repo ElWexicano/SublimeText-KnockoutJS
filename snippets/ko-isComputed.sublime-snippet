@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.isComputed()$0
+]]></content>
+	<tabTrigger>ko.isComputed</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS isComputed</description>
+</snippet>

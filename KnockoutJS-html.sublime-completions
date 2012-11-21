@@ -1,0 +1,102 @@
+{
+    "scope": "text.html.basic",
+    "completions":
+    [
+        { 
+            "trigger": "attr", 
+            "contents": "attr: {$1}$0" 
+        },
+        { 
+            "trigger": "checked", 
+            "contents": "checked: ${1:isChecked}$0" 
+        },
+        { 	
+        	"trigger": "click", 
+        	"contents": "click: ${1:clicked}$0" 
+        },
+        { 
+            "trigger": "css", 
+            "contents": "css: {${1:myClass: foo() < 0}$0" 
+        },
+        { 
+            "trigger": "data-bind", 
+            "contents": "data-bind=\"$1\"$0" 
+        },
+        { 
+            "trigger": "disable", 
+            "contents": "disable: ${1:isDisabled}$0" 
+        },
+        { 
+            "trigger": "enable", 
+            "contents": "enable: ${1:isEnabled}$0" 
+        },
+        { 
+            "trigger": "event", 
+            "contents": "event: { ${1:mouseover: enableDetails, mouseout: disableDetails} }$0" 
+        },
+        { 
+            "trigger": "foreach", 
+            "contents": "foreach: ${1:items}$0" 
+        },
+        { 
+            "trigger": "hasFocus", 
+            "contents": "hasfocus: ${1:isFocused}$0" 
+        },
+        { 
+            "trigger": "html", 
+            "contents": "html: ${1:details}$0" 
+        },
+        { 
+            "trigger": "if", 
+            "contents": "if: ${1:foo}$0" 
+        },
+        { 
+            "trigger": "ifnot", 
+            "contents": "ifnot: ${1:foo}$0" 
+        },
+        { 
+            "trigger": "options", 
+            "contents": "options: ${1:options}$0" 
+        },
+        { 
+            "trigger": "selectedOptions", 
+            "contents": "selectedOptions: ${1:foo}$0" 
+        },
+        { 
+            "trigger": "style", 
+            "contents": "style: { ${1: color: foo() < 0 ? 'red' : 'black'}}$0" 
+        },
+        { 
+            "trigger": "submit", 
+            "contents": "submit: ${1:doSomething}$0" 
+        },
+        { 
+            "trigger": "template-foreach", 
+            "contents": "template: { name: ${1:foo}, foreach: ${2:items} }$0" 
+        },
+        { 
+            "trigger": "template", 
+            "contents": "template: { name: ${1:foo}, data: ${2:bar} }$0" 
+        },
+        { 
+            "trigger": "text", 
+            "contents": "text: ${1:myMessage}$0" 
+        },
+        { 
+            "trigger": "uniqueName", 
+            "contents": "uniqueName: ${1:true}$0" 
+        },
+        { 
+            "trigger": "value", 
+            "contents": "value: ${1:foo}$0" 
+        },
+        { 
+            "trigger": "visible", 
+            "contents": "visible: ${1:shouldShowMessage}$0" 
+        },
+        { 
+            "trigger": "with", 
+            "contents": "with: ${1:bar}$0" 
+        },
+    ]
+}

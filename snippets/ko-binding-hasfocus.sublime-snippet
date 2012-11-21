@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasfocus: ${1:isFocused}$0]]></content>
+	<tabTrigger>ko.hasfocus</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>KnockoutJS The hasfocus Binding</description>
+</snippet>

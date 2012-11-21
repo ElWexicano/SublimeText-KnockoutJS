@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[click: ${1:clicked}$0]]></content>
+	<tabTrigger>ko.click</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>KnockoutJS The click Binding</description>
+</snippet>

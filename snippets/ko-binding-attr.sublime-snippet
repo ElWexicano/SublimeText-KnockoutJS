@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[attr: {$1}$0]]></content>
+	<tabTrigger>ko.attr</tabTrigger>
+	<scope>text.html.basic - string - data-bind</scope>
+	<description>KnockoutJS The Attr Binding</description>
+</snippet>

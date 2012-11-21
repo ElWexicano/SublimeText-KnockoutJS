@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ko.observableArray(${1:['foo', 'bar'])$0
+]]></content>
+	<tabTrigger>ko.observableArray</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Observable Array</description>
+</snippet>

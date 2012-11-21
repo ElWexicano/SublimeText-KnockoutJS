@@ -1,0 +1,34 @@
+[{
+  "caption": "Tools",
+  "mnemonic": "t",
+  "id": "tools",
+  "children": [{
+    "id": "kojsmenu",
+    "caption": "KnockoutJS",
+    "children": [
+    {
+      "id": "kojsdocs",
+      "caption": "Official Documentation",
+      "children": [
+        { "command": "open_url", "args": {"url": "http://knockoutjs.com/documentation/installation.html"}, "caption": "Installation" },
+        { "command": "open_url", "args": {"url": "http://learn.knockoutjs.com/"}, "caption": "Tutorials" },
+        { "command": "open_url", "args": {"url": "http://knockoutjs.com/examples/"}, "caption": "Live Examples" },
+        { "command": "open_url", "args": {"url": "http://knockoutjs.com/documentation/introduction.html"}, "caption": "Documentation" },
+        { "command": "open_url", "args": {"url": "https://groups.google.com/forum/?fromgroups#!forum/knockoutjs"}, "caption": "Forum" },
+        { "command": "open_url", "args": {"url": "https://github.com/SteveSanderson/knockout"}, "caption": "Source" }
+      ]
+    },
+    {
+     "command": "open_url", "args": {"url": "https://github.com/SteveSanderson/knockout/wiki"}, "caption": "KnockoutJS Wiki" 
+    },
+    { 
+      "command": "open_url", "args": {"url": "http://www.knockmeout.net/"}, "caption": "Knock Me Out" 
+    },
+    { 
+      "command": "open_url", "args": {"url": "http://ericmbarnard.github.com/Knockout-Validation/"}, "caption": "KnockoutJS Validation" 
+    },
+    { 
+      "command": "open_url", "args": {"url": "http://stackoverflow.com/questions/tagged/knockout.js"}, "caption": "KnockoutJS Stackoverflow" 
+    }]
+  }]
+}]

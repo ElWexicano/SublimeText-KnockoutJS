@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+ko.computed(function($1) {
+	${2:// Some Content}
+})$0
+]]></content>
+	<tabTrigger>ko.computed</tabTrigger>
+	<scope>source.js</scope>
+	<description>KnockoutJS Computed</description>
+</snippet>

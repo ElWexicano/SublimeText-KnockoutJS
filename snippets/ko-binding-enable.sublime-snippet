@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[enable: ${1:isEnabled}$0]]></content>
+	<tabTrigger>ko.enable</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>KnockoutJS The enable Binding</description>
+</snippet>
+
