@@ -1,0 +1,85 @@
+{
+    "scope": "source.js",
+    "completions":
+    [
+        { 
+            "trigger": "ko.isObservable()"
+        },
+        { 
+            "trigger": "ko.isComputed()"
+        },
+        { 
+            "trigger": "ko.isWriteableObservable()"
+        },
+        { 	
+        	"trigger": "dispose()"
+        },
+        { 
+            "trigger": "extend()"
+        },
+        { 
+        	"trigger": "getDependenciesCount()"
+        },
+        { 	
+        	"trigger": "getSubscriptionsCount()"
+        },
+        { 
+            "trigger": "isActive()"
+        },
+        { 
+        	"trigger": "peek()"
+        },
+        { 
+            "trigger": "ko.applyBindings()", 
+            "contents": "ko.applyBindings(${1:new ViewModel})$0"
+        },
+        { 
+            "trigger": "ko.observable()", 
+            "contents": "ko.observable(${1:foo})$0"
+        },
+        { 
+            "trigger": "ko.observableArray()", 
+            "contents": "ko.observableArray(${1:['foo', 'bar']})$0"
+        },
+        { 
+            "trigger": "ko.computed(new function(){})", 
+            "contents": "ko.computed(new function($1){$2})$0"
+        },
+        { 
+            "trigger": "ko.applyBindings(new ViewModel())", 
+            "contents": "ko.applyBindings(${1:new ViewModel()})$0"
+        },
+        { 
+            "trigger": "subscribe(function(){})", 
+            "contents": "subscribe(function($1){$2})$0"
+        },
+        { 
+            "trigger": "isNaN(value)", 
+            "contents": "isNaN(${1:value})$0"
+        },
+        { 
+            "trigger": "extend()", 
+            "contents": "extend($1)$0"
+        },
+        { 
+            "trigger": "json.parse", 
+            "contents": "JSON.parse(${1:someJSON})$0"
+        },
+        { 
+            "trigger": "ko.mapping.fromJS", 
+            "contents": "ko.mapping.fromJS({$1:data})$0"
+        },
+        { 
+            "trigger": "ko.toJS", 
+            "contents": "ko.toJS(${1:viewModel})$0"
+        },
+        { 
+            "trigger": "ko.toJSON", 
+            "contents": "ko.toJSON(${1:viewModel})$0"
+        },
+        { 
+            "trigger": "ko.mapping.toJS", 
+            "contents": "ko.mapping.toJS(${1:data})$0"
+        }
+    ]
+}
