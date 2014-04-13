@@ -3,4 +3,4 @@
 	<tabTrigger>ko.template.foreach</tabTrigger>
 	<scope>source.js</scope>
 	<description>KnockoutJS The template Binding with name and foreach.</description>
-</snippet>''
+</snippet>
